@@ -8,7 +8,6 @@
 ### 🔭 What I'm Working On
 - Building engaging **Web & Mobile Applications** using modern stacks like **Next.js, Laravel, and Flutter**.
 - Developing scalable backend systems and intuitive UI/UX designs.
-- Crafting a seamless experience for a **Bible-based YouTube Videobook App**.
 
 ### 🤝 Looking to Collaborate On
 - **AI Development Projects** — especially in LLMs, ML models, or automation.
