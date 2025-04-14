@@ -41,9 +41,9 @@
 ---
 
 ### 🔗 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://linkedin.com/in/your-profile)
-[![Portfolio](https://img.shields.io/badge/Portfolio-black?logo=firefox&style=for-the-badge)](https://yourportfolio.com)
-[![Instagram](https://img.shields.io/badge/@abin.jpg-E4405F?logo=instagram&style=for-the-badge&logoColor=white)](https://instagram.com/abin.jpg)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/abin-antony-3a9a21314/))
+[![Portfolio](https://img.shields.io/badge/Portfolio-black?logo=firefox&style=for-the-badge)](https://abinantony.site)
+[![Instagram]([https://img.shields.io/badge/@abin.jpg-E4405F?logo=instagram&style=for-the-badge&logoColor=white](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white))](https://instagram.com/abin_antny)
 
 
 
