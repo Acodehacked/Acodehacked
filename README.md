@@ -1,5 +1,50 @@
-# 💫 About Me:
-🔭 I’m currently working on Web and App Development <br>👯 I’m looking to collaborate on Ai Development <br>🤝 I’m looking for help with Ai engineers<br>🌱 I’m currently learning deeply to data structures<br>💬 Ask me about Languages <br>⚡ Fun fact
+<h1 align="center">Hi 👋, I'm Abin Antony</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&width=435&lines=Web+%26+App+Developer;AI+Enthusiast;Tech+Explorer;Let's+Build+Together!" alt="Typing SVG" />
+</p>
+
+---
+
+### 🔭 What I'm Working On
+- Building engaging **Web & Mobile Applications** using modern stacks like **Next.js, Laravel, and Flutter**.
+- Developing scalable backend systems and intuitive UI/UX designs.
+- Crafting a seamless experience for a **Bible-based YouTube Videobook App**.
+
+### 🤝 Looking to Collaborate On
+- **AI Development Projects** — especially in LLMs, ML models, or automation.
+- Innovative **open-source** web & AI-based solutions.
+
+### 👨‍💻 Open to Help or Hire
+- Looking to network with experienced **AI engineers** and **Data Scientists**.
+- Happy to team up on challenging **freelance** or **startup projects**.
+
+---
+
+### 🌱 Currently Deep Diving Into
+- Advanced **Data Structures & Algorithms**
+- AI, ML, and **Neural Networks**
+- Database design with **PostgreSQL & Drizzle ORM**
+
+---
+
+### 💬 Ask Me About
+- Java, JavaScript, TypeScript, PHP, Python, C++, C#, Dart...
+- Frameworks like React, Laravel, Flutter, and more.
+- Full-stack architecture and cloud deployment.
+
+---
+
+### ⚡ Fun Fact
+> I'm as passionate about clean code as I am about coffee ☕  
+> Also a self-taught artist, pianist, and quizzer 🎨🎹🧠
+
+---
+
+### 🔗 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://linkedin.com/in/your-profile)
+[![Portfolio](https://img.shields.io/badge/Portfolio-black?logo=firefox&style=for-the-badge)](https://yourportfolio.com)
+[![Instagram](https://img.shields.io/badge/@abin.jpg-E4405F?logo=instagram&style=for-the-badge&logoColor=white)](https://instagram.com/abin.jpg)
+
 
 
 
