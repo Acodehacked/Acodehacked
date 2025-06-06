@@ -1,3 +1,4 @@
+![Alt text](./image.png)
 <h1 align="center">Hi 👋, I'm Abin Antony</h1>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&width=435&lines=Web+%26+App+Developer;AI+Enthusiast;Tech+Explorer;Let's+Build+Together!" alt="Typing SVG" />
