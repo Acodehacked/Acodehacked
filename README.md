@@ -36,12 +36,6 @@
 
 ---
 
-### ⚡ Fun Fact
-> I'm as passionate about clean code as I am about coffee ☕  
-> Also a self-taught artist, pianist, and quizzer 🎨🎹🧠
-
----
-
 ### 🔗 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/abin-antony-3a9a21314/))
 [![Portfolio](https://img.shields.io/badge/Portfolio-black?logo=firefox&style=for-the-badge)](https://abinantony.site)
